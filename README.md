@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Akadiri Olalekan. I am currently working with Federal Institute of Industrial Research Oshodi in Nigeria. 
+I am Akadiri Olalekan. I am currently working with Federal Institute of Industrial Research Oshodi, Lagos Nigeria. 
 I am currently learning Data analytics and Bioinformatics with Biohack internship program. 
 <!--
 **microlincoln/microlincoln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
